@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "img": "https://redonkmarketing.com/images/phill.jpg",
+        "name": "Phill Carpenter",
+        "title": "Principal & Creative Director",
+        "description": "An avid runner, he pretty much keeps sorted everything in business"
+    },
+    {
+        "id": 2,
+        "name": "Shar Carpenter",
+        "img": "https://redonkmarketing.com/images/shar.jpg",
+        "title": "Principal & Managing Partner",
+        "description": "Her determination comes from years of eating ovaltine."
+    },
+    {
+        "id": 3,
+        "name": "Amanda Hempel",
+        "img": "https://redonkmarketing.com/images/amanda.jpg",
+        "title": "Digital Course & Project Manager",
+        "description": "A University of Kansas alumni, she has a fondness for all kfc things."
+    },
+    {
+        "id": 4,
+        "name": "Ryan Berry",
+        "img": "https://redonkmarketing.com/images/ryan.jpg",
+        "title": "Director of Interaction Design",
+        "description": "He buys project based products and do the professional interactions."
+    },
+    {
+        "id": 5,
+        "name": "Yesi Hernandez",
+        "img": "https://redonkmarketing.com/images/yesi.jpg",
+        "title": "Senior Visual Designer",
+        "description": "She loves astronomoy and careful about the pets."
+    },
+    {
+        "id": 6,
+        "name": "Ronnel Ocampo",
+        "img": "https://redonkmarketing.com/images/ronnel.jpg",
+        "title": "IT Support",
+        "description": "He builds computers and takes care of things."
+    }
+]
